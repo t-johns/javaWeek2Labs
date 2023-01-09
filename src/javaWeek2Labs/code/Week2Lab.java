@@ -1,0 +1,10 @@
+package javaWeek2Labs.code;
+
+public class Week2Lab {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+
+  }
+
+}
